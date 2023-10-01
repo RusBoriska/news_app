@@ -1,6 +1,6 @@
 # news_app
 
-A new Flutter project with Freezed, GetIt, BLoC and Clean Architecture
+A new Flutter project with Freezed, GetIt, GoRouter, BLoC and Clean Architecture.
 
 ## Getting Started
 
